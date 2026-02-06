@@ -1,9 +1,17 @@
-- 👋 Hi, I’m Ankur Saurabh
-- 👀 I’m interested in Python programming and their framework and enhancing my Skill in Machine Learning.
-- 💞️ I’m looking to collaborate on project related with Python.
-- 📫 You can mail me at the given address imankursaurabh@outlook.com.
+# 👋 Hi, I’m Ankur Saurabh
 
-<!---
-ankurpython/ankurpython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### About Me
+I’m a passionate **Python developer** with experience in building scalable backend systems and exploring frameworks like Django and Flask. I’m also expanding my skills in **Machine Learning** and data-driven solutions.
+
+### What I’m Interested In
+- Python development and backend systems  
+- Machine Learning & AI projects  
+- Open-source collaboration  
+
+### Looking to Collaborate
+I’m open to collaborating on Python-based projects, backend solutions, and ML experiments. Always excited to learn, contribute, and grow with other developers!  
+
+### 📫 Contact Me
+You can reach me at: **imankursaurabh@outlook.com**  
+Connect with me on **[LinkedIn](https://www.linkedin.com/in/ankursaurabh/)**  
+Check out my portfolio: **[Portfolio Link]**
